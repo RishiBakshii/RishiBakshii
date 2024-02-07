@@ -27,7 +27,7 @@ I'm Rishi Bakshi, a driven full-stack developer currently pursuing my BCA degree
 
 * **Quickly grasp new concepts and technologies**
 * **Work independently and as part of a team**
-* **Deliver high-quality code on time and within budget**
+* **Deliver high-quality code on time**
 * **Continuously learn and improve my skills**
 
 **Interested in learning more?** Let's connect and discuss how I can contribute to your next project, especially if it involves managing complex state or requires efficient asynchronous operations!
