@@ -1,6 +1,36 @@
 # 💫 About Me:
-i am a data scientist currently pursuing Bca at IMS Noida 1st year but besides that i am into Data Science since 2+ years. Built many end-to-end ml driven applications, Recommender systems and familiar with the end-to-end flow and lifecycle of a data science project.<br><br>The passion i feel for making data driven applications ,extracting hidden insights from data through detailed analysis that solves a buisness problem is exactly what i live for. As being a self learner exploring new topics everyday and the thought of gaining expertise in the field of data science is the reason<br><br>In-depth Knowledge of Machine learning algorithms , Data Cleaning, Data Visualization, Feature Engineering, Predictive Modeling and Statistical Analysis. "Currently Exploring More about Deep learning and various neural networks."
 
+## Rishi Bakshi: Full-Stack Web Developer with Redux Toolkit Expertise
+
+I'm Rishi Bakshi, a driven full-stack developer currently pursuing my BCA degree. Adept with both front-end and back-end technologies, I utilize the MERN stack (MongoDB, Express.js, React.js, and Node.js) and **excel in managing complex stateful applications with Redux Toolkit.**
+
+**Key Skills and Experience:**
+
+* **Front-End Development:** HTML, CSS, JavaScript, React.js, Material UI
+* **Back-End Development:** Node.js, Express.js, MongoDB
+* **Full-Stack Expertise:** Designing, developing, and deploying full-stack web applications
+* **Authentication Systems:** Building secure and robust login, signup, password reset, and OTP functionalities
+* **Redux Toolkit Mastery:** Managing complex application state effectively using async thunks and other advanced features
+* **Project Experience:**
+    * E-commerce web apps
+    * Social media web apps
+    * Ticket management systems
+
+**My passion lies in creating innovative and scalable web experiences.** I leverage my in-depth understanding of Redux Toolkit to handle data flow and state management seamlessly, especially in applications with intricate state requirements. This proficiency allows me to:
+
+* **Build applications with large and dynamic state models**
+* **Efficiently handle asynchronous operations and data fetching**
+* **Ensure predictable and maintainable state management**
+* **Develop applications that are performant and user-friendly**
+
+**I'm confident in my ability to:**
+
+* **Quickly grasp new concepts and technologies**
+* **Work independently and as part of a team**
+* **Deliver high-quality code on time and within budget**
+* **Continuously learn and improve my skills**
+
+**Interested in learning more?** Let's connect and discuss how I can contribute to your next project, especially if it involves managing complex state or requires efficient asynchronous operations!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishibakshii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-bakshi-75b224271/) 
