@@ -6,7 +6,7 @@ I'm Rishi Bakshi, a driven full-stack developer currently pursuing my BCA degree
 
 **Key Skills and Experience:**
 
-* **Front-End Development:** HTML, CSS, JavaScript, React.js, Material UI
+* **Front-End Development:** HTML, CSS, JavaScript, TypeScript, React.js, Material UI
 * **Back-End Development:** Node.js, Express.js, MongoDB
 * **Full-Stack Expertise:** Designing, developing, and deploying full-stack web applications
 * **Authentication Systems:** Building secure and robust login, signup, password reset, and OTP functionalities
