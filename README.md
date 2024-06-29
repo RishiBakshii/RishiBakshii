@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Rishi Bakshi: Full-Stack Web Developer with Redux Toolkit Expertise
+## Rishi Bakshi: Full-Stack Web Developer MERN | NEXT.JS
 
 I'm Rishi Bakshi, a driven full-stack developer currently pursuing my BCA degree. Adept with both front-end and back-end technologies, I utilize the MERN stack (MongoDB, Express.js, React.js, and Node.js) and **excel in managing complex stateful applications with Redux Toolkit.**
 
