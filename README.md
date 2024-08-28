@@ -2,21 +2,14 @@
 
 ## Rishi Bakshi: Full-Stack Web Developer MERN | NEXT.JS
 
-I'm Rishi Bakshi, a driven full-stack developer currently pursuing my BCA degree. Adept with both front-end and back-end technologies, I utilize the MERN stack (MongoDB, Express.js, React.js, and Node.js) and **excel in managing complex stateful applications with Redux Toolkit.**
+Passionate full stack developer adept with both frontend and backend technologies
 
 **Key Skills and Experience:**
 
-* **Front-End Development:** HTML, CSS, JavaScript, TypeScript, React.js, Material UI, Tailwind Css, Next.js
-* **Back-End Development:** Node.js, Express.js, MongoDB, WebSockets
-* **Full-Stack Expertise:** Designing, developing, and deploying full-stack web applications
-* **Authentication Systems:** Building secure and robust login, signup, password reset, and OTP functionalities
-* **Redux Toolkit Mastery:** Managing complex application state effectively using async thunks and other advanced features
-* **Project Experience:**
-    * E-commerce web apps
-    * Social media web apps
-    * Ticket management systems
-
-**My passion lies in creating innovative and scalable web experiences.** I leverage my in-depth understanding of Redux Toolkit to handle data flow and state management seamlessly, especially in applications with intricate state requirements. This proficiency allows me to:
+* **Front-End Development:** Html, Css, React Js, Javascript, Typescript, Nextjs14, Tailwind, Framer-motion, Redux-Toolkit, Rtk-Query
+* **Back-End Development:** Node.js, Express, WebSockets, OAuth, Zod, Passport.js
+* **DevOps:** Dockers, AWS, Nginx
+* **DataBase** - MongoDB, PostgreSQL
 
 * **Build applications with large and dynamic state models**
 * **Efficiently handle asynchronous operations and data fetching**
