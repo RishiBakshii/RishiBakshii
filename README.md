@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Rishi Bakshi: Full-Stack Web Developer MERN | NEXT.JS
+## Rishi Bakshi: Full Stack Developer
 
 Passionate full stack developer adept with both frontend and backend technologies
 
