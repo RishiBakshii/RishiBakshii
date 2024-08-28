@@ -14,18 +14,6 @@ Passionate full stack developer adept with both frontend and backend technologie
 
 **DataBase** - MongoDB, PostgreSQL
 
-* **Build applications with large and dynamic state models**
-* **Efficiently handle asynchronous operations and data fetching**
-* **Ensure predictable and maintainable state management**
-* **Develop applications that are performant and user-friendly**
-
-**I'm confident in my ability to:**
-
-* **Quickly grasp new concepts and technologies**
-* **Work independently and as part of a team**
-* **Deliver high-quality code on time**
-* **Continuously learn and improve my skills**
-
 **Interested in learning more?** Let's connect and discuss how I can contribute to your next project, especially if it involves managing complex state or requires efficient asynchronous operations!
 
 ## 🌐 Socials:
