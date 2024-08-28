@@ -6,10 +6,10 @@ Passionate full stack developer adept with both frontend and backend technologie
 
 **Key Skills and Experience:**
 
-* **Front-End Development:** Html, Css, React Js, Javascript, Typescript, Nextjs14, Tailwind, Framer-motion, Redux-Toolkit, Rtk-Query
-* **Back-End Development:** Node.js, Express, WebSockets, OAuth, Zod, Passport.js
-* **DevOps:** Dockers, AWS, Nginx
-* **DataBase** - MongoDB, PostgreSQL
+**Front-End Development:** Html, Css, React Js, Javascript, Typescript, Nextjs14, Tailwind, Framer-motion, Redux-Toolkit, Rtk-Query
+**Back-End Development:** Node.js, Express, WebSockets, OAuth, Zod, Passport.js
+**DevOps:** Dockers, AWS, Nginx
+**DataBase** - MongoDB, PostgreSQL
 
 * **Build applications with large and dynamic state models**
 * **Efficiently handle asynchronous operations and data fetching**
