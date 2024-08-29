@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my DSA<br>👯 I’m looking to collaborate on Full stack applications<br>🌱 I’m currently learning DSA
+Passionate Full Stack Developer with experience in building **end-to-end encrypted chat services**. Currently dedicated in **improving my DSA skills** to become a better problem solver and deliver more efficient, scalable solutions.
+
+# Skills
+**Frontend** - Html, Css, React Js, Javascript, Typescript, Nextjs14, Tailwind, Framer-motion
+
+**Backend** - Node.js, Express, WebSockets, OAuth, Zod, Passport.js
+
+**DevOps** - Dockers, AWS, Nginx
+
+**DataBase** - MongoDB, PostgreSQL
 
 
 ## 🌐 Socials:
